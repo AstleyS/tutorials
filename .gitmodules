@@ -1,0 +1,12 @@
+[submodule "react-tutorial"]
+	path = react-tutorial
+	url = https://github.com/AstleyS/react-tutorial.git
+[submodule "docker-tutorial"]
+	path = docker-tutorial
+	url = https://github.com/AstleyS/docker-tutorial.git
+[submodule "springboot-tutorial"]
+	path = springboot-tutorial
+	url = https://github.com/AstleyS/springboot-tutorial.git
+[submodule "postgresql-tutorial"]
+	path = postgresql-tutorial
+	url = https://github.com/AstleyS/postgresql-tutorial.git
