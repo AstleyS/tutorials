@@ -10,3 +10,9 @@
 [submodule "postgresql-tutorial"]
 	path = postgresql-tutorial
 	url = https://github.com/AstleyS/postgresql-tutorial.git
+[submodule "aws-tutorial"]
+	path = aws-tutorial
+	url = https://github.com/AstleyS/aws-tutorial.git
+[submodule "git-tutorial"]
+	path = git-tutorial
+	url = https://github.com/AstleyS/git-tutorial.git
